@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Find Beta Apps</string>
+    <string name="title_app_detail">App Detail</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="dev_website">http://satishyadav.com</string>
+    <string name="beta_url">https://play.google.com/apps/testing/</string>
+    <string name="beta_html"><a href="https://play.google.com/apps/testing/"></a></string>
+    <string name="beta_action_name">Check for beta</string>
+</resources>
